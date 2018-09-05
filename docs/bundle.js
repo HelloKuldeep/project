@@ -86,6 +86,39 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./img/box1.jpg":
+/*!**********************!*\
+  !*** ./img/box1.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/box1.jpg\";\n\n//# sourceURL=webpack:///./img/box1.jpg?");
+
+/***/ }),
+
+/***/ "./img/box2.jpg":
+/*!**********************!*\
+  !*** ./img/box2.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/box2.jpg\";\n\n//# sourceURL=webpack:///./img/box2.jpg?");
+
+/***/ }),
+
+/***/ "./img/box3.jpg":
+/*!**********************!*\
+  !*** ./img/box3.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/box3.jpg\";\n\n//# sourceURL=webpack:///./img/box3.jpg?");
+
+/***/ }),
+
 /***/ "./img/image1.jpg":
 /*!************************!*\
   !*** ./img/image1.jpg ***!
@@ -97,6 +130,39 @@ eval("module.exports = __webpack_require__.p + \"img/image1.jpg\";\n\n//# source
 
 /***/ }),
 
+/***/ "./img/img1.jpg":
+/*!**********************!*\
+  !*** ./img/img1.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/img1.jpg\";\n\n//# sourceURL=webpack:///./img/img1.jpg?");
+
+/***/ }),
+
+/***/ "./img/img2.jpg":
+/*!**********************!*\
+  !*** ./img/img2.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/img2.jpg\";\n\n//# sourceURL=webpack:///./img/img2.jpg?");
+
+/***/ }),
+
+/***/ "./img/img3.jpg":
+/*!**********************!*\
+  !*** ./img/img3.jpg ***!
+  \**********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/img3.jpg\";\n\n//# sourceURL=webpack:///./img/img3.jpg?");
+
+/***/ }),
+
 /***/ "./index.js":
 /*!******************!*\
   !*** ./index.js ***!
@@ -105,7 +171,7 @@ eval("module.exports = __webpack_require__.p + \"img/image1.jpg\";\n\n//# source
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_bootstrap_scss_bootstrap_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/bootstrap/scss/bootstrap.scss */ \"./node_modules/bootstrap/scss/bootstrap.scss\");\n/* harmony import */ var _node_modules_bootstrap_scss_bootstrap_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_bootstrap_scss_bootstrap_scss__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scss/index.scss */ \"./scss/index.scss\");\n/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_scss_index_scss__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\n//# sourceURL=webpack:///./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_bootstrap_scss_bootstrap_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/bootstrap/scss/bootstrap.scss */ \"./node_modules/bootstrap/scss/bootstrap.scss\");\n/* harmony import */ var _node_modules_bootstrap_scss_bootstrap_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_bootstrap_scss_bootstrap_scss__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scss/index.scss */ \"./scss/index.scss\");\n/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_scss_index_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _img_img1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./img/img1.jpg */ \"./img/img1.jpg\");\n/* harmony import */ var _img_img1_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_img_img1_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _img_img2_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./img/img2.jpg */ \"./img/img2.jpg\");\n/* harmony import */ var _img_img2_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_img_img2_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _img_img3_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./img/img3.jpg */ \"./img/img3.jpg\");\n/* harmony import */ var _img_img3_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_img_img3_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _img_box1_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./img/box1.jpg */ \"./img/box1.jpg\");\n/* harmony import */ var _img_box1_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_img_box1_jpg__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _img_box2_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./img/box2.jpg */ \"./img/box2.jpg\");\n/* harmony import */ var _img_box2_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_img_box2_jpg__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _img_box3_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./img/box3.jpg */ \"./img/box3.jpg\");\n/* harmony import */ var _img_box3_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_img_box3_jpg__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _img_image1_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./img/image1.jpg */ \"./img/image1.jpg\");\n/* harmony import */ var _img_image1_jpg__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_img_image1_jpg__WEBPACK_IMPORTED_MODULE_8__);\n\n\n\n\n\n\n\n\n\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ }),
 
