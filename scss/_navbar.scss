@@ -1,0 +1,20 @@
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: fade-out($black, 0.4);
+  color: aliceblue;
+  .navbar-brand {
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+  }
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+        font-size: 1rem;
+        font-weight: 700;
+        letter-spacing: 0.1rem;
+      }
+    }
+  }
+}
